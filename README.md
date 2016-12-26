@@ -1,2 +1,2 @@
-# test_smart_pointer
-Test custom smart pointer
+# test smart pointer
+Test custom smart pointer creation and usage with a simple API.
